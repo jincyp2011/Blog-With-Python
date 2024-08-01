@@ -36,7 +36,7 @@ This is a project to show the usage of various libraries revolving mainly around
 - [x] Add security to encrypt or hash passwords with `Werkzeug`
 - [x] Add administrator roles so users cannot add/delete/ posts
 - [x] Add a comment section to posts
-- [ ] Deploy website
+- [x] Deploy website
 
 
 <!-- CONTACT -->
@@ -44,7 +44,7 @@ This is a project to show the usage of various libraries revolving mainly around
 
 My email adress: jincyp2011@gmail.com
 
-Project Link: [https://github.com/jincyp2011/day-69-blog-with-users-end](https://github.com/jincyp2011/day-69-blog-with-users-end)
+Project Link: [https://github.com/jincyp2011/Blog-With-Python](https://github.com/jincyp2011/Blog-With-Python)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
